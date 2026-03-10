@@ -12,6 +12,10 @@ A comprehensive collection of AI-powered skills and plugins designed for **AI En
 
 - **[Claude Skills](https://github.com/alirezarezvani/claude-skills)** - Production-ready skills and plugins for Claude Code
 
+- **[Agent Skills Marketplace](https://skillsmp.com/)** - Marketplace for AI agent skills
+
+- **[AI Research SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs)** - AI Research SKILLs 
+
 ## Use Cases
 
 - 📊 Data analysis and visualization
